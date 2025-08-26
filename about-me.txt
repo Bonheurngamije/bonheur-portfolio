@@ -1,0 +1,42 @@
+
+ABOUT ME
+
+Hi, I'm Bonheur—a student of Business Information Technology and an aspiring IT Specialist & Web Developer. I’m passionate about using technology to solve real-world problems and simplify user experiences.
+
+🔧 Top Skills
+- Python and javascript (Beginner – currently learning)
+- HTML & CSS (Basic Web Design)
+- Networking & IT Support
+- Google Maps & Waze navigation tools
+- Basic Cybersecurity principles
+
+🚀 Projects
+- Personal Portfolio Website – Designed in Figma, now developing HTML/CSS version
+- Public Transport Ticket Booking System – Concept for Rwanda (Web & Mobile App)
+- SEO Blog Writing with AI Tools – Fiverr gig for content creation
+
+🛠️ Tech Stack
+- Languages: Python, HTML, CSS
+- Frameworks: Django (learning), Bootstrap
+- Tools: Figma, GitHub, VS Code
+- Databases: MySQL (basic)
+
+🎓 Certifications & Achievements
+- Introduction to AI with Python – HarvardX (in progress)
+- Python Basics – HackerRank (ongoing practice)
+- Driver’s License (Category B) – Rwanda National Police
+
+🎯 Interests
+- Tech: AI, Web Development, Cybersecurity
+- Non-Tech: Music, Dancing, Traveling, Sports
+
+📬 Contact
+- Email: Bonheurngamije@gmail.com
+- Phone: +250 783 106 251
+- LinkedIn: (Let me know if you'd like help setting one up)
+
+💡 Motto
+“Build small today, lead big tomorrow.”
+
+Fun Fact: I can turn complex tech into simple, user-friendly solutions.
+
